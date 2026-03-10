@@ -1,12 +1,12 @@
-# To-Do List for R�sidence M3A Page Website
+# To-Do List for Résidence M3A Page Website
 
 ## Project Overview
-- **Company Name:** R�sidence M3A Page
+- **Company Name:** Résidence M3A Page
 - **Directory:** r_sidence_m3a_page
 - **Address/Contact:** 
   - "  Immobilier
   - 
-  - Yaound�, Cameroon
+  - Yaoundé, Cameroon
   - 
   - +237 6 99 90 98 04
   - - Douala Logement & Immobilier"
@@ -26,7 +26,7 @@
 ### 2. Configuration
 - [ ] Update package.json:
   - Name: r-sidence-m3a-page  - Version: 0.1.0- [ ] Update index.html:
-  - Title: R�sidence M3A Page  - Meta description: https://www.facebook.com/gatewaysdfc...
+  - Title: Résidence M3A Page  - Meta description: https://www.facebook.com/gatewaysdfc...
 ### 3. Branding & Content
 - [ ] **Logo:** 
   - Source: Create a placeholder logo  - Action: Copy to src/assets/logo.png (or svg).
@@ -42,7 +42,7 @@ theme.extend.colors.primary to match the brand.
 
 ### 4. Content Integration
 - [ ] **Home Page (src/pages/public/Home.jsx):
-  - Replace the hero title with "R�sidence M3A Page".
+  - Replace the hero title with "Résidence M3A Page".
   - Update the subtitle with: "https://www.facebook.com/gatewaysdfc".
   - Update "Featured Products" if specific images/products are provided (currently using mock data).
 - [ ] **About Page (src/pages/public/About.jsx):
